@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="shadow_grey">#99000000</color>
+
+    <color name="sys_blue">#2187d2</color>
+    <color name="sys_grey_1">#666666</color>//用于普通文字、大段文字
+    <color name="sys_white">#ffffff</color>
+    <color name="sys_line_split">#e5e5e5</color>//用于分割线、描边
+
+</resources>
